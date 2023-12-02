@@ -12,10 +12,8 @@ Given a tweet and an emotion X, determine the intensity or degree of emotion X f
 - [Folder Structure](#folder-structure)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## Folder Structure
@@ -38,3 +36,9 @@ Before you begin, ensure you have met the following requirements:
 - **Libraries:** Install the required libraries using the following command:
   ##### pip install -r requirements.txt
 - **Jupyternotebook:** Install jupyternotebook or any platform you are comfortable to run the code
+
+## Usage
+
+#### Train the Model:
+- Open and run the LSTM- Deep learning Model.ipynb notebook in a Jupyter environment to identify the intensity of the emotion
+- Open and run the Statistical Model.ipynb notebook in jupyter environment/any environment to understand the data more
