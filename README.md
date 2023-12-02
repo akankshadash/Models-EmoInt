@@ -22,11 +22,19 @@ Given a tweet and an emotion X, determine the intensity or degree of emotion X f
 1. **Data Folder** - Holds all the input files used for the project
     - a. **Train Data** - holds the data required to train the model
     - b. **Dev Data** - holds the data required to validate the model
-    - c. **Test Data** - holds the data required to predict the unseen
-2. 
+    - c. **Test Data** - holds the data required to predict the unseen data
 
+2. **IPYNB_Files Folder** - Holds all the necessary code required to run and test the model
 
+3. **Report Folder** - Holds the reports where observations are noted
 
-Install dependencies.
+## Getting Started
 
-# pip install -r requirements.txt
+## Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- **Python:** The code is written in Python. Make sure you have Python installed (version 3.8.16).
+- **Libraries:** Install the required libraries using the following command:
+  ##### pip install -r requirements.txt
+- **Jupyternotebook:** Install jupyternotebook or any platform you are comfortable to run the code
