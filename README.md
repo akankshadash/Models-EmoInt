@@ -19,23 +19,11 @@ Given a tweet and an emotion X, determine the intensity or degree of emotion X f
 - [Acknowledgements](#acknowledgements)
 
 ## Folder Structure
-Explain the purpose of major folders in your project. For example:
-
-## Description
-Briefly describe your project and its purpose.
-
-## Table of Contents
-- [Folder Structure](#folder-structure)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
-
-## Folder Structure
-Explain the purpose of major folders in your project. For example:
+1. **Data Folder** - Holds all the input files used for the project
+    - a. **Train Data** - holds the data required to train the model
+    - b. **Dev Data** - holds the data required to validate the model
+    - c. **Test Data** - holds the data required to predict the unseen
+2. 
 
 
 
